@@ -1,8 +1,9 @@
-# Flight Tracker
+# Flight Tracker ✈️
 An open-source project written with JavaScript
 
 The goal of this project is to read the data from [OpenSky Network](https://opensky-network.org/) and visualize it on a map.
 
+## DEMO 🧑‍✈️
 ![Example1](example1.png) ![Example2](example2.png)
 
 ## 🔮 Features:
