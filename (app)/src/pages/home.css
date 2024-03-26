@@ -1,0 +1,42 @@
+.jumbotron {
+    position: relative;
+    top: -60px;
+    width: 100%;
+    z-index: 0;
+    border-radius:0;
+    background-color: #0B3D1D;
+    background-size: cover;
+    padding-top: 100px;
+    min-height: 460px;
+  }
+#nav-home {
+    background-color: transparent ! important;
+    position: relative;
+    z-index: 10;
+}
+.jumbotron-img {
+    width: 100%;
+    opacity: 0.9;
+}
+#home-search {
+    background-color: transparent;
+    color: #F8F8F8;
+    border-color: #093C1C;
+}
+#home-search::placeholder { 
+    color: #86AC7A;
+    opacity: 1;
+  }
+  
+  #home-search:-ms-input-placeholder {
+    color: #86AC7A;
+  }
+  
+  #home-search::-ms-input-placeholder {
+    color: #86AC7A;
+   }
+   .features-container {
+    margin-top: -56px;
+   }
+   .lnk {z-index: 1000 !important;}
+
