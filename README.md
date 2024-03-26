@@ -21,7 +21,5 @@ Start by cloning the repository and install the packages:
 npm install
 ```
 ```
-Start the project:
-```
 npm run preview
 ```
